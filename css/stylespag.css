@@ -1,0 +1,37 @@
+
+
+
+
+/*selector {
+	propiedad: valor;
+}*/
+
+body {
+	background-image: url(https://scontent.ftuc1-1.fna.fbcdn.net/v/t1.0-9/26169147_10155276592552194_6085526205368934246_n.jpg?_nc_cat=110&oh=1ce3b1df7247ff11dfb6956688bf029b&oe=5C57F8C1); 
+	background-size: cover;
+}
+
+h1 {
+	color : black;
+	background-color: white;
+	font-family: Noto Sans, sans-serif;
+}
+
+.boxmodel {
+	border: 5px solid red;
+}
+
+p {
+	color : black;
+	text-align: center;
+	font-family: Noto Sans, sans-serif;
+	font-size: 100%x;
+
+}
+img {
+	float: right;
+}
+footer {
+	clear: both;
+}
+

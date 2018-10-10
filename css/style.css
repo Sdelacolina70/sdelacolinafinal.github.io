@@ -1,0 +1,48 @@
+
+
+
+/*selector {
+	propiedad: valor;
+}*/
+
+body {
+	background-image: url(https://scontent.ftuc1-1.fna.fbcdn.net/v/t1.0-9/26169147_10155276592552194_6085526205368934246_n.jpg?_nc_cat=110&oh=1ce3b1df7247ff11dfb6956688bf029b&oe=5C57F8C1); 
+	background-size: cover;
+
+}
+
+h2 {
+
+	text-transform: uppercase;
+	font-style: inherit;
+	font-family: Playfair Display, serif;
+	color: black;
+}
+
+
+h1 {
+	color : #AA6C39;
+	text-transform: uppercase;
+	font-style: italic;
+	text-align: center;
+		border: 2px solid rgba(170, 57, 57, 1,0);
+	cursor: pointer;
+	font-family: Lobster, cursive;
+	font-size: 78px;
+}
+
+li {
+	color: green;
+	text-align: center;
+	list-style: none;
+	
+}
+
+
+
+
+p {
+	color: blue;
+	text-transform: uppercase;
+	font-style: italic;
+}
